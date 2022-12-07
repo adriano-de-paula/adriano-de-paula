@@ -4,6 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adriano.depaula.3154)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/adrianobats12)
 
+![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&langs_count=8&theme=onedark)](https://github.com/adriano-de-paula/github-readme-stats)
 
 ## Tecnologias que uso mais...
