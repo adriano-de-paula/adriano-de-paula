@@ -4,8 +4,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adriano.depaula.3154)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/adrianobats12)
 
-![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&langs_count=8&theme=onedark)](https://github.com/adriano-de-paula/github-readme-stats)
+<div>
+  <a href=https://github.com/adriano-de-paula/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&layout=compact&langs_count=8&theme=onedark"/>
+</div>
+
 
 ## Tecnologias que uso mais...
 
@@ -18,4 +22,4 @@
 
 - 🔭 Atualmente buscando um emprego na área da tecnologia
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
-- 💬 Gosto de animes e basquete...
+
