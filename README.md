@@ -6,8 +6,8 @@
 
 <div>
   <a href=https://github.com/adriano-de-paula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&layout=compact&langs_count=8&theme=onedark"/>
 </div>
 
 
