@@ -5,8 +5,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/adrianobats12)
 
 <div>
-  <a href=https://github.com/adriano-de-paula/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <a href=https://github.com/adriano-de-paula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriano-de-paula&show_icons=true&theme=onedark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-de-paula&layout=compact&langs_count=8&theme=onedark"/>
 </div>
 
